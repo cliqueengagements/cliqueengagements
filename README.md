@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @cliqueengagements call me Sam
-- 👀 I’m interested in software development and educative collaborations
-- 🌱 I’m currently learning Github, Python, and all that will make me a better software developer
+- 👋 Hi, I’m @Termuxcode or Sam
+- 👀 I’m interested in software engineering and educative collaborations
+- 🌱 I’m currently learning Github, Python, and all that will make me a better software engineer
 - 💞️ I’m looking to collaborate on open sorce projects
 - 📫 How to reach me e037403.olawunmi@dlc.ui.edu.ng
 

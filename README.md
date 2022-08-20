@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Termuxcode or Sam
-- 👀 I’m interested in software engineering and educative collaborations
-- 🌱 I’m currently learning Github, Python, and all that will make me a better software engineer
-- 💞️ I’m looking to collaborate on open sorce projects
-- 📫 How to reach me e037403.olawunmi@dlc.ui.edu.ng
+- 👋 Hi, my name is Eniola Samuel
+- 👀 Experienced IT Support Specialist, Software Engineering traniee at alx Africa and Digital Creator
+- 🌱 Versatile and Resourceful with a passion for tech
+- 💞️ I’m looking to collaborate in open sorce projects
+- 📫 Feel free to reach out and please follow
 
 <!---
 cliqueengagements/cliqueengagements is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

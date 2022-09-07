@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Linux, C/C++, Move, Solidity, Python, MySQL, MongoDB, Rust, HTML, CSS, JS, React, Git and any related fullstack courses**
 
-- 👯 I’m looking to collaborate on **in open sapce projects , game development, app development and lots more**
+- 👯 I’m looking to collaborate on **in open space projects , game development, app development and lots more**
 
 - 🤝 I’m looking for help with **resources and tips to help me improve and get a reputable job offer**
 

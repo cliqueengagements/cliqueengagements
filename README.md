@@ -1,5 +1,5 @@
 <h1 align="center">Hey There, I'm Eniola Samuel</h1>
-<h3 align="center">Experienced IT Support Specialist, Software Engineering traniee at alx Africa and Digital Creator</h3>
+<h3 align="center">Experienced IT Support Specialist, Software Engineering traniee at Alx Africa and Digital Creator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliqueengagements&label=Profile%20views&color=0e75b6&style=flat" alt="cliqueengagements" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **resources and tips to help me improve and get a reputable job offer**
 
-- 📝 I regularly write articles on [Tech and Design](Tech and Design)
+- 📝 I regularly write articles on <b>Tech and Design</b>
 
 - 💬 Ask me about **Web Design and Content Creation, IT Administration, SysAdmin, Operating Systems and anything Tech related**
 

@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on gaining my software engineering certificate from <b>ALX & Holberton Software Engr Scholarship Programme</b>
 
-- 🌱 I’m currently learning **Linux, C, Python, MySQL, MongoDB, Rust, HTML, CSS, JS, React, Git and any related fullstack courses**
+- 🌱 I’m currently learning **Linux, C/C++, Move, Solidity, Python, MySQL, MongoDB, Rust, HTML, CSS, JS, React, Git and any related fullstack courses**
 
 - 👯 I’m looking to collaborate on **in open sapce projects , game development, app development and lots more**
 

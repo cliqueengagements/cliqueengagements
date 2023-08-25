@@ -1,5 +1,5 @@
 <h1 align="center">Hey There, I'm Eniola Samuel</h1>
-<h3 align="center">Experienced IT Support Specialist, Software Engineer , Web3 Specialist</h3>
+<h3 align="center">Experienced IT Support Specialist, Software Engineer , Blockchain & Web3 Specialist</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cliqueengagements&label=Profile%20views&color=0e75b6&style=flat" alt="cliqueengagements" /> </p>
 
